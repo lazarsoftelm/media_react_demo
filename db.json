@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Mrs. Edmund Strosin",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Refined Fresh Bacon",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Granite Hat",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Plastic Towels",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Fresh Car",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Steel Towels",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Unbranded Fresh Bacon",
+      "id": 17
+    },
+    {
+      "userId": 4,
+      "title": "Awesome Cotton Chair",
+      "id": 18
+    },
+    {
+      "userId": 4,
+      "title": "Intelligent Granite Pizza",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Generic Concrete Cheese",
+      "id": 21
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45265",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13226",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47640",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=37850",
+      "id": 5
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62959",
+      "id": 6
+    }
+  ]
+}
